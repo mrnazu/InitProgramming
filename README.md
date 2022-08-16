@@ -10,8 +10,8 @@
 </p>
 
 
-<h1 align="center">1️⃣ Day 1 History of computer</h1>
+<h1 align="center">1️⃣ Day 1 History of Computer</h1>
 
 <h1 align="center">🛑 About Text , Calculator and Storage</h1>
-<h2 align="center">History of computer</h2>
+<h2 align="center"></h2>
 
