@@ -18,6 +18,9 @@
 <p>The history of computers starts out about 2000 years ago in Babylonia (Mesopotamia), at the
 birth of the abacus, a wooden rack holding two horizontal wires with beads strung on them.
 and computer is a machine or device that performs processes, calculations and operations based on instructions provided by a software or hardware program. It has the ability to accept data (input), process it, and then produce outputs.</p>
+
+![cod](https://user-images.githubusercontent.com/108541991/184962133-34da69dc-5b07-4f01-9255-ef38ebb00222.jpeg)
+
 https://user-images.githubusercontent.com/108541991/184961634-53576e56-8862-499f-ba3b-422b762f8cc5.jpeg
 
 
