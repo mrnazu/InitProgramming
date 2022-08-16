@@ -18,7 +18,11 @@
 <p>The history of computers starts out about 2000 years ago in Babylonia (Mesopotamia), at the
 birth of the abacus, a wooden rack holding two horizontal wires with beads strung on them.
 and computer is a machine or device that performs processes, calculations and operations based on instructions provided by a software or hardware program. It has the ability to accept data (input), process it, and then produce outputs.</p>
+![pc](https://user-images.githubusercontent.com/108541991/184961634-53576e56-8862-499f-ba3b-422b762f8cc5.jpeg)
+
 
 <h5>A Brief History of the Computer Programming</h5>
 
 <p>The first programming language was developed in 1883 when Ada Lovelace and Charles Babbage worked together on the Analytical Engine, which was a primitive mechanical computer. Lovelace was able to discern the importance of numbers, realizing that they could represent more than just numerical values of things.</p>
+![cod](https://user-images.githubusercontent.com/108541991/184961795-c8f64b08-d933-4138-a4e9-3fc23b023664.jpeg)
+
