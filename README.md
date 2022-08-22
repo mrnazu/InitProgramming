@@ -33,6 +33,8 @@ But The modern Internet is not based on OSI</p>
 <p>TCP/IP stands for Transmission Control Protocol/Internet Protocol and is a suite of communication protocols used to interconnect network devices on the internet. TCP/IP is also used as a communications protocol in a private computer network (an intranet or extranet)</p>
 
 <h1 align="center">🛑 Difference between OSI model and TCP/IP</h1>
+<p>TCP/IP and OSI are the two most widely used networking models for communication. There are some similarities and dissimilarities between them. One of the major differences is that OSI is a conceptual model which is not practically used for communication. On the other hand, TCP/IP is a model used for establishing a connection over the network.</p>
+![reference_model](https://user-images.githubusercontent.com/108541991/186007352-fa10310f-b3fb-490d-b224-3af8ba07448c.jpg)
 
 <h2>🛑 What is Website Attack?</h2>
 <p>A Web application attack is any attempt by a malicious actor to compromise the security of a Web-based application. Web application attacks may target either the application itself to gain access to sensitive data, or they may use the application as a staging post to launch attacks against users of the application.</P>
