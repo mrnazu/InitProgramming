@@ -34,7 +34,7 @@ But The modern Internet is not based on OSI</p>
 
 <h1 align="center">🛑 Difference between OSI model and TCP/IP</h1>
 <p>TCP/IP and OSI are the two most widely used networking models for communication. There are some similarities and dissimilarities between them. One of the major differences is that OSI is a conceptual model which is not practically used for communication. On the other hand, TCP/IP is a model used for establishing a connection over the network.</p>
-<img src=https://www.studytonight.com/computer-networks/comparison-osi-tcp-model style='background:white; border-radius:10px;'>
+<img src=https://www.guru99.com/images/1/102219_1135_TCPIPvsOSIM1.png style='background:white; border-radius:10px;'>
 
 <h2>🛑 What is Website Attack?</h2>
 <p>A Web application attack is any attempt by a malicious actor to compromise the security of a Web-based application. Web application attacks may target either the application itself to gain access to sensitive data, or they may use the application as a staging post to launch attacks against users of the application.</P>
