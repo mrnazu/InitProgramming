@@ -25,14 +25,16 @@ and computer is a machine or device that performs processes, calculations and op
 
 <h1 align="center">2️⃣ Day 2 about OSI Model , TCP/IP and Web Attacks </h1>
 
-<h2>What Is the OSI Model</h2>
+<h2>🛑 What Is the OSI Model</h2>
 <p>The Open Systems Interconnection (OSI) model describes seven layers that computer systems use to communicate over a network.
 But The modern Internet is not based on OSI</p>
 
-<h2>What is TCP/IP</h2>
+<h2>🛑 What is TCP/IP</h2>
 <p>TCP/IP stands for Transmission Control Protocol/Internet Protocol and is a suite of communication protocols used to interconnect network devices on the internet. TCP/IP is also used as a communications protocol in a private computer network (an intranet or extranet)</p>
 
-<h2>What is Website Attack?</h2>
+<h1 align="center">🛑 Difference between OSI model and TCP/IP</h1>
+
+<h2>🛑 What is Website Attack?</h2>
 <p>A Web application attack is any attempt by a malicious actor to compromise the security of a Web-based application. Web application attacks may target either the application itself to gain access to sensitive data, or they may use the application as a staging post to launch attacks against users of the application.</P>
 <h3>Types of Website Attacks<h3>
 <p>Bots<br>
