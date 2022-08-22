@@ -35,9 +35,9 @@ But The modern Internet is not based on OSI</p>
 <h2>What is Website Attack?</h2>
 <p>A Web application attack is any attempt by a malicious actor to compromise the security of a Web-based application. Web application attacks may target either the application itself to gain access to sensitive data, or they may use the application as a staging post to launch attacks against users of the application.</P>
 <h3>Types of Website Attacks<h3>
-<p>Bots.
-DDoS Attacks.
-SQL Injections and Cross-site Scripting.
+<p>Bots<br>
+DDoS Attacks<br>
+SQL Injections and Cross-site Scripting<br>
 Malware Attacks and etc..</p>
 
 
